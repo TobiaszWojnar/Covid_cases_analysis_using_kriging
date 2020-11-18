@@ -1,5 +1,5 @@
 # Covid cases analysis using kriging
-===
+---
 
 Analysis of Covid-19 cases in polish west districts using  kriging and [pyinterpolate liblary](https://github.com/szymon-datalions/pyinterpolate)
 
